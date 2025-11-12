@@ -8,10 +8,10 @@
 ## 🚀 Our Flagship Product
 
 ### [✨ Scribe Spark](https://scribe-spark.com)
-Your all-in-one platform for AI-powered **content creation, planning & publishing** across Instagram, Facebook, LinkedIn, and more.
+Your all-in-one platform for AI-powered **content creation, planning & publishing** across Instagram, Facebook, LinkedIn and more.
 
 🧠 Generate high-quality posts with the help of AI  
-📅 Plan, schedule, and automate publishing  
+📅 Plan, schedule and automate publishing  
 🎨 Create visuals and captions effortlessly  
 💬 Manage your social media messages in one inbox  
 
@@ -52,7 +52,7 @@ We’re a small but ambitious software studio based in **Germany** 🇩🇪 — 
 - Scalable cloud infrastructure
 - AI-driven tools that empower creators
 
-> Founded and developed by **@coderilla_gmbh** — with love, coffee, and clean code ☕💻
+> Founded and developed by **@coderilla_gmbh** — with love, coffee and clean code ☕💻
 
 ---
 
